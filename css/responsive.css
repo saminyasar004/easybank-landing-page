@@ -1,7 +1,9 @@
 /*
-* Mobile: 375px
-* Desktop: 1440px
-* Tablet: 1140px
+* 320px — 480px: Mobile devices
+* 481px — 768px: iPads, Tablets
+* 769px — 1024px: Small screens, laptops
+* 1025px — 1200px: Desktops, large screens
+* 1201px and more —  Extra large screens, TV 
 */
 
 /* 
@@ -15,9 +17,9 @@
 * 240px
 */
 
-/* desktop site 375px to 1440px */
+/* desktop site 769px to 1440px */
 
-@media screen and (min-width: 374px) and (max-width: 1441px) {
+@media screen and (min-width: 769px) and (max-width: 1441px) {
   .desktop-navigation,
   .desktop-home {
     display: block;
