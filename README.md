@@ -6,8 +6,8 @@
 
 This website is created by [Samin Yasar][author]. You can find it [here][live].
 
-[author]: https://www.saminyasar.netlify.app/ "Samin Yasar Portfolio Website"
-[live]: https://www.easybanks.vercel.app/ "Live preview"
+[author]: https://saminyasar.netlify.app/ "Samin Yasar Portfolio Website"
+[live]: https://easybanks.vercel.app/ "Live preview"
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 
